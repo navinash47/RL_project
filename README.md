@@ -1,1 +1,1 @@
-# RL_project
+# rl_pacman
